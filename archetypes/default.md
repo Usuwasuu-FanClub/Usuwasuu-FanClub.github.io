@@ -1,6 +1,7 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
+title: "{{ replace .TranslationBaseName "-" " " | title }}"
+slug: ""
+image: ""
 date: {{ .Date }}
-draft: true
+draft: false
 ---
-
