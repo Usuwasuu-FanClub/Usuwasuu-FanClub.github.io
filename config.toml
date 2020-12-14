@@ -87,6 +87,11 @@ disqusShortname = ""
       image = "intro.jpg"
       url = "records/intro"
 
+    [[params.tiles.showcase]]
+      title = "Pictures"
+      image = "fanarts-home.jpg"
+      url = "fanarts/pictures"
+
     # You can make more showcases by copy and pasting the code above
 
   [params.blog]
