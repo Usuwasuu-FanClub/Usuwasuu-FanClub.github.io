@@ -1,39 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>稀羽すう</title>
-    <link>https://www.usuwasuu.moe/</link>
-    <description>Recent content on 稀羽すう</description>
+    <title>Records on 稀羽すう</title>
+    <link>https://www.usuwasuu.moe/records/</link>
+    <description>Recent content in Records on 稀羽すう</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Dec 2020 20:23:00 +0800</lastBuildDate><atom:link href="https://www.usuwasuu.moe/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About</title>
-      <link>https://www.usuwasuu.moe/about/</link>
-      <pubDate>Tue, 15 Dec 2020 11:23:58 +0800</pubDate>
-      
-      <guid>https://www.usuwasuu.moe/about/</guid>
-      <description>该博客由 Usuwasuu-FanClub 创建，非官方组织，粉丝自主行为，项目地址为 Usuwasuu-FanClub.github.io。
-欢迎感兴趣的朋友加入组织，多提 PR，一起分享关于 稀羽すう 有趣或值得纪念的事 (=.=)</description>
-    </item>
-    
-    <item>
-      <title>Pictures</title>
-      <link>https://www.usuwasuu.moe/fanarts/pictures/</link>
-      <pubDate>Sun, 13 Dec 2020 20:23:00 +0800</pubDate>
-      
-      <guid>https://www.usuwasuu.moe/fanarts/pictures/</guid>
-      <description>SourceURL
-SourceURL
-SourceURL
-SourceURL
-SourceURL
-SourceURL
-SourceURL
-SourceURL
-SourceURL</description>
-    </item>
-    
+    <lastBuildDate>Sat, 06 Jun 2020 08:00:00 +0000</lastBuildDate><atom:link href="https://www.usuwasuu.moe/records/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>デビュー</title>
       <link>https://www.usuwasuu.moe/records/intro/</link>
