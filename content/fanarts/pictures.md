@@ -100,8 +100,16 @@ draft: false
 
 {{< tweet 1337424604864757762 >}}
 
+{{< tweet 1338010824552529922 >}}
+
 {{< tweet 1338485515901837313 >}}
 
 {{< tweet 1338810019978989570 >}}
 
 {{< tweet 1339583113068859392 >}}
+
+--------------------------------------------------------------------------------
+
+Updating... 
+
+You can contact the member of [Usuwasuu-FanClub](https://github.com/Usuwasuu-FanClub) to add the missing pictures.
